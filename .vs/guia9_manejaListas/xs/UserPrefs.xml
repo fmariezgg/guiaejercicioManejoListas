@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{52F71924-766E-475E-9AC7-B0729BB61E72}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ej2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ej1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ej3 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ej2/ej2.cs">
+    <Files>
+      <File FileName="guia9_manejoListas/Program.cs" Line="277" Column="2" />
+      <File FileName="ej2/Program.cs" Line="169" Column="2" />
+      <File FileName="ej3/Program.cs" Line="151" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="guia9_manejaListas" expanded="True">
+            <Node name="ej1" expanded="True" />
+            <Node name="ej2" expanded="True">
+              <Node name="ej2.cs" selected="True" />
+            </Node>
+            <Node name="ej3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
